@@ -9,8 +9,8 @@ Grundlegende Methoden der Bildverarbeitung, Farbwahrnehmung und Farbsysteme, Bil
     - sämtliche Datenfiles für das Modul IPCV
 
 - `root`: pro SW (oder Übung) eine jupyter notebook oder python-Datei
-    - `SW01` - xxxxx
+    - `exercises00` - Test opencv installation / playground 
+    - `exercises01` - xxxxx
+    - `sw01` - xxxxx
     - `uebung01` - xxxxx
     - `uebung02` - xxxxx
-    - `exercises00` - xxxxx
-    - `exercises01` - xxxxx
