@@ -13,6 +13,6 @@ Grundlegende Methoden der Bildverarbeitung, Farbwahrnehmung und Farbsysteme, Bil
     - `exercise01` - Einführung / Bildmanipulationen / Morphologische Operationen
     - `exercise02` - Hand Segmentierung / Hintergrund Segmentierung / Bluescreen
     - `exercise03` - Spieler Detektion
-    - `exercise0x` - xxxxx
+    - `exercise06` - Kantendetektion und Hough Transformation
     - `math_exercise01` - Filter I
     - `math_exercise02` - Filter II
