@@ -16,3 +16,4 @@ Grundlegende Methoden der Bildverarbeitung, Farbwahrnehmung und Farbsysteme, Bil
     - `exercise06` - Kantendetektion und Hough Transformation
     - `math_exercise01` - Filter I
     - `math_exercise02` - Filter II
+    - `math_exercise03` - Snakes
