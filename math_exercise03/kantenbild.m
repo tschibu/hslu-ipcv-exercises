@@ -11,15 +11,15 @@ for i=1:M
         end
         % halbkreis links
         if ((i-7*R/5)^2 + (j-7*R/5)^2 <= (2*R/5)^2 && i < 7*R/5)
-            f(i,j)=1;
+            f(i,j)=0;
         end
         % halbkreis rechts
         if ((i-7*R/5)^2 + (j-13*R/5)^2 <= (2*R/5)^2 && i < 7*R/5)
-            f(i,j)=1;
+            f(i,j)=0;
         end
         % zentraler kreis
         if ((i-7*R/5)^2 + (j-2*R)^2 <= (R/5)^2 && i >= 7*R/5)
-            f(i,j)=0;
+            f(i,j)=1;
         end
     end
 end
