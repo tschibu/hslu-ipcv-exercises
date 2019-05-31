@@ -14,6 +14,11 @@ Grundlegende Methoden der Bildverarbeitung, Farbwahrnehmung und Farbsysteme, Bil
     - `exercise02` - Hand Segmentierung / Hintergrund Segmentierung / Bluescreen
     - `exercise03` - Spieler Detektion
     - `exercise06` - Kantendetektion und Hough Transformation
+    - `exercise08` - Clustering (K-Means, Mean Shift, Superpixel und GraphCut)
+    - `exercise09` - Machine Learning mit Support Vector Machines (SVM)
+    - `exercise11` - Convolutional Neural Networks
     - `math_exercise01` - Filter I
     - `math_exercise02` - Filter II
     - `math_exercise03` - Active Contours - Snakes
+    - `math_exercise04` - Diskrete Kosinus Transformation
+    - `math_exercise05` - RLE, LZ77, LZ78, LZW, Huffmann Kodierung
